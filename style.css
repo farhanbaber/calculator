@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(images/Black\ and\ Blue\ Modern\ Bold\ Light\ Galaxy\ Exploring\ Outer\ Space\ YouTube\ Thumbnail.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.container{
+    width: 30vw;
+    height: 85vh;
+    margin: auto;
+    margin-top: 5rem;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.473);
+    backdrop-filter: 10%;
+    box-shadow: 0px 0px 15px 2px orange;
+}
+
+input{
+    width: 30vw;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.342);
+    border: none;
+    backdrop-filter: 10%;
+    color: white;
+    font-size: 30px;
+}
+button{
+    font-size: 30px;
+    padding: 20px;
+    margin: 0.1em;
+    border-radius: 50px;
+    width: 90px;
+border: none;
+font-weight: bold;
+margin-top: 10px;
+transition: 0.1s ease-in-out all;
+}
+button:hover{
+    filter: brightness(60%);
+    transition: 0.1s ease-in-out all;
+}
+#zero{
+    width: 190px;
+}
+#color-transform{
+    background-color: grey;
+}
+#color-transform-y{
+    background-color: rgb(216, 152, 33);
+}
+::placeholder{
+    color: white;
+}
