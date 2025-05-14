@@ -1,0 +1,37 @@
+ 🧮 Advanced Calculator
+
+A fully functional **calculator** application built with HTML | CSS | JavaScript. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as advanced operations like square roots and exponentiation.
+
+
+---
+
+ 📋 Features
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- √ Square Root  
+- ^ Exponentiation (Power)  
+- C Clear button to reset the input  
+- 🖥️ Fully responsive design for both mobile and desktop
+
+---
+
+ 🛠️ Technologies Used
+
+- HTML5 – For basic structure  
+- CSS3 – For layout and styling  
+- JavaScript (ES6) – For the calculator functionality and logic  
+- Vercel – Hosting and deployment (optional)
+
+---
+
+📂 Project Structure
+
+```bash
+calculator-app/
+├── index.html         # Main HTML structure
+├── style.css          # Styling file
+├── script.js          # JavaScript logic for calculations
+└── README.md          # Project documentation
